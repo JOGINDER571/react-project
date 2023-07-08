@@ -6,9 +6,6 @@ export const COLUMNS = [
   {
     Header: "First Name",
     accessor: "first_name",
-    Cell:(cell)=>{
-      console.log(cell)
-    }
   },
   {
     Header: "Last Name",

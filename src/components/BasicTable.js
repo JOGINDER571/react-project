@@ -16,7 +16,7 @@ export const BasicTable = () => {
 
   const { getTableProps, getTableBodyProps, headerGroups, rows, prepareRow } =
     tableInstance;
-  console.log(headerGroups);
+  // console.log(headerGroups);
   return (
     <>
       <table {...getTableProps()}>
