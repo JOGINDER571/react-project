@@ -1,0 +1,19 @@
+{
+  "super": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "age": 10
+    },
+    {
+      "id": 2,
+      "name": "Super man",
+      "age": 22
+    },
+    {
+      "id": 3,
+      "name": "Joncena",
+      "age": 34
+    }
+  ]
+}
